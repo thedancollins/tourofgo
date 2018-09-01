@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "slices.of.slices"
+		},
+		{
+			"path": "append"
+		},
+		{
+			"path": "range"
+		},
+		{
+			"path": "range.cont"
+		},
+		{
+			"path": "slice.exercise"
+		},
+		{
+			"path": "map.literals"
+		},
+		{
+			"path": "maps.mutating"
+		},
+		{
+			"path": "map.exercise"
+		},
+		{
+			"path": "function.values"
+		},
+		{
+			"path": "function.closures"
+		},
+		{
+			"path": "function.closures.exercise.fibonacci"
+		},
+		{
+			"path": "methods"
+		},
+		{
+			"path": "pointer.receiver"
+		},
+		{
+			"path": "tourofgo",
+			"name": "tourofgo"
+		}
+	],
+	"settings": { }
+}
