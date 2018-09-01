@@ -42,6 +42,12 @@
 		{
 			"path": "tourofgo",
 			"name": "tourofgo"
+		},
+		{
+			"path": "pointers.and.functions"
+		},
+		{
+			"path": "methods.and.pointer.indirection"
 		}
 	],
 	"settings": { }
