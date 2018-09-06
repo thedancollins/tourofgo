@@ -54,6 +54,9 @@
 		},
 		{
 			"path": "methods.with-pointer.receivers"
+		},
+		{
+			"path": "interfaces"
 		}
 	],
 	"settings": { }
