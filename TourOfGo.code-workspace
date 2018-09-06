@@ -48,6 +48,12 @@
 		},
 		{
 			"path": "methods.and.pointer.indirection"
+		},
+		{
+			"path": "indirection.values"
+		},
+		{
+			"path": "methods.with-pointer.receivers"
 		}
 	],
 	"settings": { }
