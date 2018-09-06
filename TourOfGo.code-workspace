@@ -57,6 +57,9 @@
 		},
 		{
 			"path": "interfaces"
+		},
+		{
+			"path": "interfaces.are.satisfied.implicitly"
 		}
 	],
 	"settings": { }
