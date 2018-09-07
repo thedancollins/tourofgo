@@ -66,6 +66,9 @@
 		},
 		{
 			"path": "interface.values.with.nil"
+		},
+		{
+			"path": "nil.interface.values"
 		}
 	],
 	"settings": { }
