@@ -72,6 +72,9 @@
 		},
 		{
 			"path": "empty.interface"
+		},
+		{
+			"path": "type.assertions"
 		}
 	],
 	"settings": { }
