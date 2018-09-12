@@ -84,6 +84,9 @@
 		},
 		{
 			"path": "exercise.stringers"
+		},
+		{
+			"path": "errors"
 		}
 	],
 	"settings": { }
