@@ -11,7 +11,7 @@ func main() {
 	hosts := map[string]IPAddr{
 		"loopback":  {127, 0, 0, 1},
 		"googleDNS": {8, 8, 8, 8},
-		"goatse":    {1, 2, 3, 4},
+		"test":      {1, 2, 3, 4},
 	}
 	for name, ip := range hosts {
 		fmt.Printf("%v: %v\n", name, ip)
