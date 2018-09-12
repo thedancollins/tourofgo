@@ -90,6 +90,9 @@
 		},
 		{
 			"path": "exercise.errors"
+		},
+		{
+			"path": "readers"
 		}
 	],
 	"settings": { }
