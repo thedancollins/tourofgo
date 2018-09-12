@@ -78,6 +78,9 @@
 		},
 		{
 			"path": "type.switches"
+		},
+		{
+			"path": "stringers"
 		}
 	],
 	"settings": { }
