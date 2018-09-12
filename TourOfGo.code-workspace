@@ -87,6 +87,9 @@
 		},
 		{
 			"path": "errors"
+		},
+		{
+			"path": "exercise.errors"
 		}
 	],
 	"settings": { }
