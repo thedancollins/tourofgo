@@ -81,6 +81,9 @@
 		},
 		{
 			"path": "stringers"
+		},
+		{
+			"path": "exercise.stringers"
 		}
 	],
 	"settings": { }
