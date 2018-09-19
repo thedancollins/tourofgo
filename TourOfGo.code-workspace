@@ -93,6 +93,9 @@
 		},
 		{
 			"path": "readers"
+		},
+		{
+			"path": "exercise.reader"
 		}
 	],
 	"settings": { }
