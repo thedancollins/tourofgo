@@ -96,6 +96,12 @@
 		},
 		{
 			"path": "exercise.reader"
+		},
+		{
+			"path": "exercise.rot13Reader"
+		},
+		{
+			"path": "test.knowledge"
 		}
 	],
 	"settings": { }
