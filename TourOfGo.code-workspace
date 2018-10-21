@@ -102,6 +102,12 @@
 		},
 		{
 			"path": "test.knowledge"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "exercise.images"
 		}
 	],
 	"settings": { }
