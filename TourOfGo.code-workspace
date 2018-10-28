@@ -114,6 +114,9 @@
 		},
 		{
 			"path": "channels"
+		},
+		{
+			"path": "buffered.channels"
 		}
 	],
 	"settings": { }
