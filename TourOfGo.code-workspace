@@ -120,6 +120,9 @@
 		},
 		{
 			"path": "range-and-close"
+		},
+		{
+			"path": "select"
 		}
 	],
 	"settings": { }
