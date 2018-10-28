@@ -123,6 +123,9 @@
 		},
 		{
 			"path": "select"
+		},
+		{
+			"path": "default-selection"
 		}
 	],
 	"settings": { }
