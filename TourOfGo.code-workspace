@@ -108,6 +108,9 @@
 		},
 		{
 			"path": "exercise.images"
+		},
+		{
+			"path": "goroutines"
 		}
 	],
 	"settings": { }
