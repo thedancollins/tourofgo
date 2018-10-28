@@ -8,6 +8,7 @@ func fibonacci(c, quit chan int) {
 		select {
 		case c <- x:
 			x, y = y, x+y
+			fmt.Println("x=", x, "y=", y)
 		case <-quit:
 			fmt.Println("quit")
 			return
