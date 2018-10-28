@@ -7,7 +7,7 @@ import (
 
 func say(s chan int) {
 	//for i := 0; i < 5; i++ {
-	time.Sleep(100 * time.Millisecond)
+	time.Sleep(1000 * time.Millisecond)
 	fmt.Println(<-s)
 	//}
 }
