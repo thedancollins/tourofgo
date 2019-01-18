@@ -14,7 +14,7 @@ func Walk(t *tree.Tree, ch, quit chan int) {
 				//fmt.Println(t.Left);
 				go Walk(t.Left, ch, quit)
 			}
-			if t.Right != nil {
+			if t.Right != nil { //
 				//fmt.Println(t.Right);
 				go Walk(t.Right, ch, quit)
 			}

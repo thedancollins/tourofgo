@@ -127,5 +127,8 @@
 			"path": "exercise-equivalent-binary-trees"
 		}
 	],
-	"settings": { }
+	"settings": {
+		"git.defaultCloneDirectory": "/Users/realdancollins/Documents/Code/",
+	    "git.scanRepositories": ["/Users/realdancollins/Documents/Code"]
+	}
 }
