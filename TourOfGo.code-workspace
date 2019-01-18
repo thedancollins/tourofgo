@@ -122,6 +122,9 @@
 		},
 		{
 			"path": "default-selection"
+		},
+		{
+			"path": "exercise-equivalent-binary-trees"
 		}
 	],
 	"settings": { }
