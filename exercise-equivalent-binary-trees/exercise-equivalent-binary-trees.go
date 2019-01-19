@@ -5,7 +5,7 @@ import "fmt"
 
 // Walk walks the tree t sending all values
 // from the tree to the channel ch.
-func Walk(t *tree.Tree, ch, quit chan int) {
+func Walk(t *tree.Tree, ch, quit chan int) {  //
 	fmt.Println(t);
 	for {
 		select {
